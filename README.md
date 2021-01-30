@@ -1,7 +1,8 @@
 # arduino-woodhack
 
 interactive and LED stripe code for hardware parts of installation made of wood, flotsam, and electronics.
-Thanks to [@tilmanjusten](https://github.com/tilmanjusten) for his Arduino experience. I was just standing on your shoulders.
+Thanks to [@tilmanjusten](https://github.com/tilmanjusten) for quickling providing a working code base and bringing all of the electronic hardware.
+I mostly did the LED animation part (ledstripe.ino).
 
 ## reception
 
